@@ -1,0 +1,1 @@
+LINK_JSONPLACEHOLDER = 'https://jsonplaceholder.typicode.com/users'
